@@ -1,32 +1,30 @@
 <div align="center">
 
-[![Elango Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Elango%20🤹&text2=AI%2FML%20Engineer&width=800&height=400)](https://github.com/elango74)
+[![Elango Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Elango%20&text2=AI%2FML%20Engineer&width=800&height=400)](https://github.com/elango74)
 
-# 👨‍💻 Hey there, I'm **Elango E!**
-🎓 CSE (AI & ML) | 💡 Passionate about AI, IoT, and Full Stack Development  
-🌍 Building smart things — from code to circuits 🚀
+# Hey there, I'm **Elango E!**
+ CSE (AI & ML) | Passionate about AI| IoT|Full Stack Development  
+ Building smart things — from code to circuits
 
 </div>
 
 ---
 
-## ⚡ Tech Spark ⚡
-🧠 Languages: Python | C | Java | JavaScript  
-🛠️ Tools & Frameworks: TensorFlow | PyTorch | React | Node.js | Firebase | Cloudinary  
-💻 Databases: MySQL | MongoDB  
-☁️ Cloud: AWS | Google Cloud  
+## Tech Spark 
+ Languages: Python | C | Java | JavaScript  
+ Tools & Frameworks: TensorFlow | PyTorch | React | Node.js | Firebase | Cloudinary  
+ Databases: MySQL | MongoDB  
+ Cloud: AWS | Google Cloud  
 
 ---
 
-## 💥 Coding Profiles
-- 💻 [LeetCode](https://leetcode.com/)  
-- 🌟 [HackerRank](https://www.hackerrank.com/)  
-- 🚀 [CodeChef](https://www.codechef.com/)  
-- 🧩 [Kaggle](https://www.kaggle.com/)  
+## Coding Profiles
+- [LeetCode](https://leetcode.com/)    
+- [CodeChef](https://www.codechef.com/)  
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -38,7 +36,7 @@
 
 ---
 
-## 🐍 Contribution Snake 🐍
+## Contribution Snake 
 
 <div align="center">
   
@@ -48,7 +46,7 @@
 
 ---
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
@@ -60,7 +58,7 @@
 
 ---
 
-## 😂 Random Dev Joke
+## Random Dev Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
