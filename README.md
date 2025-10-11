@@ -2,253 +2,27 @@
 
 [![Elango Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Elango%20🤹&text2=AI%2FML%20Engineer&width=800&height=400)](https://github.com/elango74)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-<p align="center">
-  <a href="https://github.com/elango74"><img src="https://komarev.com/ghpvc/?username=elango74&label=Profile+Views&color=0EA5E9&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/></a>
-  <a href="https://github.com/elango74?tab=followers"><img src="https://img.shields.io/github/followers/elango74?label=Followers&style=for-the-badge&color=2563EB&logo=github&logoColor=white" alt="Followers"/></a>
-  <a href="https://github.com/elango74?tab=repositories"><img src="https://img.shields.io/github/stars/elango74?label=Total+Stars&style=for-the-badge&color=0D9488&logo=starship&logoColor=white" alt="Stars"/></a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-6366F1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Lives-India%20%F0%9F%87%AE%F0%9F%87%B3-10B981?style=flat-square" />
-  <img src="https://img.shields.io/badge/Loves-Building%20Cool%20Stuff-EC4899?style=flat-square" />
-</p>
+# 👨‍💻 Hey there, I'm **Elango E!**
+🎓 CSE (AI & ML) | 💡 Passionate about AI, IoT, and Full Stack Development  
+🌍 Building smart things — from code to circuits 🚀
 
 </div>
 
 ---
 
-## 🎨 About Me
-
-```python
-class ElangoE:
-    def __init__(self):
-        self.name = "Elango E"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.location = "India 🇮🇳"
-        self.education = "B.E. CSE (Specialization in AI & ML)"
-        self.passion = ["Building AI Systems", "Problem Solving", "Open Source"]
-
-    def current_focus(self):
-        return [
-            "🤖 Deep Learning & Computer Vision",
-            "🎤 Voice Recognition Systems",
-            "🐄 Agriculture & Healthcare AI",
-            "🚀 Contributing to Open Source"
-        ]
-
-    def get_daily_routine(self):
-        return "Code 💻 → Solve 🧩 → Learn 📚 → Repeat 🔄"
-
-
-<table>
-<tr>
-<td width="60%">
-
-### 🎯 What Drives Me
-
-- Building AI systems that create **real-world impact**
-- Bridging the gap between **research and production**
-- Contributing to **open-source** and helping others learn
-- Exploring the intersection of **technology and social good**
-
-🔭 Currently working on AI-powered solutions for **agriculture** and **healthcare**  
-🌱 Learning advanced **MLOps**, **Computer Vision**, and **Voice Recognition**  
-⚡ Fun fact: I debug code faster than I can decide what anime to watch next!
-
-</td>
-<td width="40%">
-
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding" />
-
-### 🎮 When I'm Not Coding
-```diff
-+ Binge-watching anime
-+ Hanging out with friends
-+ Experimenting in the kitchen
-+ Eating delicious food
-```
-
-</td>
-</tr>
-</table>
+## ⚡ Tech Spark ⚡
+🧠 Languages: Python | C | Java | JavaScript  
+🛠️ Tools & Frameworks: TensorFlow | PyTorch | React | Node.js | Firebase | Cloudinary  
+💻 Databases: MySQL | MongoDB  
+☁️ Cloud: AWS | Google Cloud  
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>💻 Development & Frameworks</b></summary>
-<br/>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br/>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🔧 Other Tools & Languages</b></summary>
-<br/>
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
-
-</details>
-
----
-
-## 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🐄 Cattle Health AI System
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=Cattle_Health_App&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/Cattle_Health_App)
-
-**🔹 AI-powered disease detection**  
-Early detection system using deep learning and computer vision.
-
-</td>
-<td width="50%">
-
-### 🎤 IdentiVoice
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=IdentiVoice&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/IdentiVoice)
-
-**🔹 Advanced voice recognition**  
-Real-time audio processing with multi-language support.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💻 C-D-Assist
-[![](https://github-readme-stats.vercel.app/api/pin/?username=Mohankumar682&repo=C-D-Assist&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false)](https://github.com/Mohankumar682/C-D-Assist)
-
-**🔹 Intelligent coding assistant**  
-Automates tasks and boosts developer productivity by 40%.
-
-</td>
-<td width="50%">
-
-### 🔗 More Projects
-
-Explore additional work:
-- 📊 Data Analytics Dashboards
-- 🎮 Game Development
-- 🌐 Web Applications
-
-[![](https://img.shields.io/badge/View_All_Repositories-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohankumar682?tab=repositories)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Coding Platforms & Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 LeetCode Profile
-
-<a href="https://leetcode.com/u/ELANGO_E/">
-  <img src="https://leetcard.jacoblin.cool/ELANGO_E?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats" width="100%" />
-</a>
-
-<a href="https://leetcode.com/u/ELANGO_E/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🍳 CodeChef Profile
-
-<table align="center">
-  <tr>
-    <td align="center" colspan="2">
-      <img src="https://img.shields.io/badge/Rating-1600+-FFD93D?style=for-the-badge&logo=codechef&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Problems-Solved-FF6B6B?style=for-the-badge&logo=codechef&logoColor=white" />
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Active-Coder-51CF66?style=for-the-badge&logo=codechef&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2">
-      <a href="https://www.codechef.com/users/elango_e" target="_blank">
-        <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-### 🎯 Codolio
-
-<a href="https://codolio.com/profile/Elango" target="_blank">
-  <img src="https://img.shields.io/badge/Codolio-Active%20Profile-8B5CF6?style=for-the-badge" alt="Codolio" />
-</a>
-
-</td>
-</tr>
-</table>
-
-### 🎯 Coding Philosophy
-
-```javascript
-while (alive) {
-  eat();
-  sleep();
-  code();
-  repeat();
-}
-```
-
-</div>
+## 💥 Coding Profiles
+- 💻 [LeetCode](https://leetcode.com/)  
+- 🌟 [HackerRank](https://www.hackerrank.com/)  
+- 🚀 [CodeChef](https://www.codechef.com/)  
+- 🧩 [Kaggle](https://www.kaggle.com/)  
 
 ---
 
@@ -256,81 +30,39 @@ while (alive) {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Mohankumar682&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=4F46E5&text_color=FFFFFF&icon_color=4F46E5&ring_color=4F46E5" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohankumar682&theme=react&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=EC4899&currStreakLabel=8B5CF6" alt="Streak Stats" />
-
-<br/><br/>
-
-<a href="https://github.com/Mohankumar682"> 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohankumar682&theme=algolia" width="100%" /> 
-</a>
-
-<br/><br/>
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohankumar682&theme=algolia" width="31%" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohankumar682&theme=algolia" width="31%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mohankumar682&theme=algolia" width="31%" title="🦉 Productive Hours" />
-
-<br/><br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mohankumar682&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/Mohankumar682)
-
-<br/>
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Mohankumar682&column=8&margin-w=20&margin-h=20&no-frame=true&theme=algolia&title=Stars,Followers,MultiLanguage,Repositories,Organizations,Commits,PullRequest,Issues)](https://github.com/Mohankumar682)
+![Elango's GitHub Stats](https://github-readme-stats.vercel.app/api?username=elango74&show_icons=true&theme=radical)
+![Elango's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=elango74&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elango74&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake 🐍
 
 <div align="center">
-[  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohankumar682/Mohankumar682/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mohankumar682/Mohankumar682/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Mohankumar682/Mohankumar682/output/github-snake.svg" />
-  </picture>](https://raw.githubusercontent.com/elango74/elango74/output/github-snake-dark.svg)
+  
+![snake gif](https://github.com/elango74/elango74/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Connect with Me
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/Elango-E">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:elango.e@example.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://codolio.com/profile/Elango">
-  <img src="https://img.shields.io/badge/Codolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Codolio" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Elango%20E-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![Gmail](https://img.shields.io/badge/Email-elangoe@example.com-red?style=for-the-badge&logo=gmail)](mailto:elangoe@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-elango74-black?style=for-the-badge&logo=github)](https://github.com/elango74)  
 
-<br/><br/>
-
-### 💭 Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-### 💡 Today's Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Jokes Card" />
-
-<br/><br/>
+</div>
 
 ---
 
-### ✨ "Learning today, building tomorrow."
+## 😂 Random Dev Joke
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=radical)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+---
 
-**⭐ If you find my work interesting, feel free to star my repositories!**
-
-*Made with ❤️ by [Elango E](https://github.com/Mohankumar682)*
-
-</div>
+⭐ **“Code. Create. Contribute.” — Elango E**
