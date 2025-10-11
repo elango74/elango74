@@ -2,20 +2,28 @@
 
 [![Elango Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Elango%20&text2=Next-Gen%20AI%20Engineer&width=800&height=400&font=Orbitron)](https://github.com/elango74)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Elango-blue?style=for-the-badge)](https://elango.dev)
+
+
 # Hey there, I'm **Elango E!**
  CSE (AI & ML) | Passionate about AI| IoT|Full Stack Development  
- **Crafting next-generation smart solutions—from code to circuits.**
+  ***Crafting next-generation smart solutions—from code to circuits.***
+
 
 </div>
 
 ---
 
-## What Fuels My Drive (The "Spider-Sense" for Impact)
-- **Innovating AI systems** that make real-world impact
-- Bridging the gap between **pioneering research and robust production**
-- Mastering **MLOps, advanced Computer Vision, and Cloud AI architectures**
-- Empowering others through **open-source contributions**
+ ## The "Spider-Sense" for Impact
 
+ -The thrill of turning random ideas into working systems — from sketches to code that actually runs
+ 
+ -That “aha” moment when something finally compiles or a model hits 98% accuracy
+ 
+ -The joy of building things that others can use, improve, or learn from
+ 
+ -A drive to mix creativity with logic, where imagination meets implementation.
+ 
 Fun fact: My debugging "spider-sense" is faster than some f1 teams
 
 ---
