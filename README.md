@@ -1,13 +1,13 @@
 <div align="center">
 
-![Developer Banner](https://ishan-rest.vercel.app/svg/banner/dev5/Elango)
+[![Elango Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Elango%20🤹&text2=AI%2FML%20Engineer&width=800&height=400)](https://github.com/elango74)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;AI%2FML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%8E%AF;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A0;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://github.com/Mohankumar682"><img src="https://komarev.com/ghpvc/?username=Mohankumar682&label=Profile+Views&color=8B5CF6&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/></a>
-  <a href="https://github.com/Mohankumar682?tab=followers"><img src="https://img.shields.io/github/followers/Mohankumar682?label=Followers&style=for-the-badge&color=7C3AED&logo=github&logoColor=white" alt="Followers"/></a>
-  <a href="https://github.com/Mohankumar682?tab=repositories"><img src="https://img.shields.io/github/stars/Mohankumar682?label=Total+Stars&style=for-the-badge&color=6D28D9&logo=starship&logoColor=white" alt="Stars"/></a>
+  <a href="https://github.com/elango74"><img src="https://komarev.com/ghpvc/?username=elango74&label=Profile+Views&color=0EA5E9&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views"/></a>
+  <a href="https://github.com/elango74?tab=followers"><img src="https://img.shields.io/github/followers/elango74?label=Followers&style=for-the-badge&color=2563EB&logo=github&logoColor=white" alt="Followers"/></a>
+  <a href="https://github.com/elango74?tab=repositories"><img src="https://img.shields.io/github/stars/elango74?label=Total+Stars&style=for-the-badge&color=0D9488&logo=starship&logoColor=white" alt="Stars"/></a>
 </p>
 
 <p align="center">
@@ -29,19 +29,19 @@ class ElangoE:
         self.role = "AI/ML Engineer & Full-Stack Developer"
         self.location = "India 🇮🇳"
         self.education = "B.E. CSE (Specialization in AI & ML)"
-        self.passion = ["Building AI Solutions", "Problem Solving", "Open Source"]
+        self.passion = ["Building AI Systems", "Problem Solving", "Open Source"]
 
     def current_focus(self):
         return [
-            "🔬 Advanced MLOps & Computer Vision",
+            "🤖 Deep Learning & Computer Vision",
             "🎤 Voice Recognition Systems",
             "🐄 Agriculture & Healthcare AI",
-            "🚀 Contributing to open source"
+            "🚀 Contributing to Open Source"
         ]
 
     def get_daily_routine(self):
-        return "Code 💻 → Solve Problems 🧩 → Learn 📚 → Repeat 🔄"
-```
+        return "Code 💻 → Solve 🧩 → Learn 📚 → Repeat 🔄"
+
 
 <table>
 <tr>
