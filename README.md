@@ -63,7 +63,7 @@ My goal is to craft solutions that are not only functional but also make a meani
 
 
 ### AI & Machine Learning
-<div align="left">
+<div align="center">
  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
