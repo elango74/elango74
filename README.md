@@ -20,9 +20,7 @@
 <!-- About Me Section -->
 <img src="https://media.tenor.com/Gh3LKX9HMFkAAAAj/hollow-knight-knight.gif" width=330 align="left">
 
-<div align="center">
-  ***Who Am I?**
-</div>
+## <div align="center">Who Am I?</div>
 
 <div align="justify">
 
@@ -42,7 +40,6 @@ My goal is to craft solutions that are not only functional but also make a meani
 
 ---
 
-<!-- Tech Gadgets Section -->
 <img align="right" alt="tech-gif" width="300" src="https://i.pinimg.com/originals/10/27/f8/1027f80aeabcbb74a2e698be71829e9e.gif">
 
 <div align="left">
@@ -54,7 +51,6 @@ My goal is to craft solutions that are not only functional but also make a meani
 | :--- | :--- |
 | **Languages** | Python • C • JavaScript |
 
-<!-- Core Languages -->
 <div align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,python" /><br>
     <img src="https://skillicons.dev/icons?i=cpp,mysql,react,bootstrap" /><br>
@@ -76,7 +72,6 @@ My goal is to craft solutions that are not only functional but also make a meani
 
 ---
 
-<!-- Cloud Arsenal -->
 <h3 align="center">Cloud Arsenal</h3>
 <div align="center">
  
@@ -86,7 +81,6 @@ My goal is to craft solutions that are not only functional but also make a meani
 
 ---
 
-<!-- Utility Belt Essentials -->
 <h3 align="center">Utility Belt Essentials</h3>
 <div align="center">
  
@@ -102,8 +96,8 @@ My goal is to craft solutions that are not only functional but also make a meani
 ## Coding Profiles
 <div align="center">
  
-[![LeetCode](https://img.shields.io/badge/LeetCode-Elango-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-Elango-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Elango-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/elango03/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-Elango-brown?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/kit23bam017)
 </div>
 
 ---
