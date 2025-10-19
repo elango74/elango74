@@ -134,6 +134,8 @@ My goal is to craft solutions that are not only functional but also make a meani
 ---
 
 <div align="center">
+ 
 **“It’s not just about what you can do, but what you *choose* to build.” — Elango E**  
 *Defining the next generation of solutions.*
+
 </div>
