@@ -128,7 +128,7 @@ My goal is to craft solutions that are not only functional but also make a meani
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Elango%20E-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
 [![Gmail](https://img.shields.io/badge/Email-elango.ren606@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:elangoe@example.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-elango74-black?style=for-the-badge&logo=github)](https://github.com/elango74)
+[![Codolio](https://img.shields.io/badge/Codolio-Elango%2074-000000?style=for-the-badge)](https://codolio.com/profile/elango74)
 </div>
 
 ---
