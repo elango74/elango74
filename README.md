@@ -8,8 +8,9 @@
 <!-- Profile Views / Stars / Followers -->
 <div align="center">
 <a href="https://github.com/elango74">
-  <img src="https://komarev.com/ghpvc/?username=elango74&label=Profile%20views&color=000000&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=elango74&style=for-the-badge&color=000000" />
 </a>
+
 <a href="https://github.com/elango74?tab=followers">
   <img src="https://custom-icon-badges.herokuapp.com/github/followers/elango74?color=000000&labelColor=gray&style=for-the-badge&logo=person-add&label=Followers&logoColor=ffffff" alt="Followers" />
 </a>
