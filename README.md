@@ -2,7 +2,7 @@
  
 [![Elango Banner](https://svg-banners.vercel.app/api?type=glitch&text1=Elango%20&text2=Next-Gen%20AI%20Engineer&width=800&height=400&font=Orbitron)](https://github.com/elango74)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Elango-blue?style=for-the-badge)](https://cool-rabanadas-99bdd6.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Elango-blue?style=for-the-badge)](https://fancy-pithivier-1f10c3.netlify.app/)
 
 </div>
 <!-- Profile Views / Stars / Followers -->
